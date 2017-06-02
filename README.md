@@ -1,0 +1,2 @@
+# LJFRuntimeCopy
+使用Runtime解决对象Copy问题，需要使用Copy或mutableCopy的对象只需要继承 LJFRuntimeCopyObject 即可。
